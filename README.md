@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/RamazanBozkurt"><img src="https://img.shields.io/github/followers/RamazanBozkurt?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/ramazanbozkurt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ramazanbozkurt-20/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
