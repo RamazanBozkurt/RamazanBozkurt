@@ -11,14 +11,14 @@
 
 - 🧠 Software Developer with 3+ years of experience, mainly focused on **.NET** technologies  
 - 🧱 Building modular architectures with **Entity Framework**, **Microservices**, **Clean Architecture**, and **Domain-Driven Design**
-- 🚀 Strong experience in **CI/CD**, **Docker**, **Redis**, and **Azure**
+- 🚀 Strong experience in **.NET**, **Blazor**, **SQL**, and **NoSQL**
 
 ---
 
 🧰 **Tech Stack**
 
 ```csharp
-Backend:         C#, .Net, .Net Core, .Net Framework, Asp.Net MVC
+Backend:         C#, .NET, .NET Core, .NET Framework, Asp.Net MVC
 Frontend:        Blazor, Blazor Server, Blazor Web Assembly (WASM), JavaScript, HTML, CSS, Bootstrap
 Database:        Redis, MongoDb, MsSql, PostgreSql, MySql
 Tools & DevOps:  Docker, Azure Devops, Git, Bitbucket, TFS
