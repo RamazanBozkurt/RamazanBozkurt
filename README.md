@@ -17,7 +17,6 @@
 
 🧰 **Tech Stack**
 
-```csharp
 Backend:         C#, .NET, .NET Core, .NET Framework, Asp.Net MVC
 Frontend:        Blazor, Blazor Server, Blazor Web Assembly (WASM), JavaScript, HTML, CSS, Bootstrap
 Database:        Redis, MongoDb, MsSql, PostgreSql, MySql
