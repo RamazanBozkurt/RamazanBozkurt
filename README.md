@@ -5,6 +5,8 @@
   <a href="https://www.linkedin.com/in/ramazanbozkurt-20/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+![Views](https://views.igorkowalczyk.dev/api/badge/RamazanBozkurt?label=Profile+Views&color=007bff&style=flat)
+
 ---
 
 🎯 **About Me**
