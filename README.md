@@ -19,8 +19,8 @@
 
 🧰 **Tech Stack**
 ```
-Backend:         C#, .NET, .NET Core, .NET Framework, Asp.Net MVC
-Frontend:        Blazor, Blazor Server, Blazor Web Assembly (WASM), JavaScript, HTML, CSS, Bootstrap
+Backend:         C#, .NET, .NET Framework, Asp.Net MVC
+Frontend:        Blazor Server, Blazor Web Assembly (WASM), Razor, MVC, JavaScript, HTML, CSS, Bootstrap
 Database:        Redis, MongoDb, MsSql, PostgreSql, MySql
 Tools & DevOps:  Docker, Azure Devops, Git, Bitbucket, TFS
 Core Libraries:  MediatR, Carter, xUnit, Entity Framework, Dapper, AutoMapper, Mapster, JWT, HostedServices, IdentityServer, Fluent Validation
